@@ -36,4 +36,5 @@ with open("hello_world.txt", "w") as f:
 
 with open("hello_world.txt", "a") as f:
     f.write("\nHow are you")
+    
 print(f)
