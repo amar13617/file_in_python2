@@ -1,1 +1,1 @@
-Rolf
+& C:/Users/LENOVO/AppData/Local/Programs/Python/Python311/python.exe c:/Users/LENOVO/Desktop/file_in_python_02/file_in_python2/working_with_csv.py
